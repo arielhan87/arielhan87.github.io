@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a 5th year Ph.D. candidate in the University of California, Irvine informatics department, where I work at the Creativity Labs and Connected Learning Lab, advised by Dr. Kylie Peppler. I received a master's in Entertainment Technology from Carnegie Mellon University and Information science, Industrial design, and Fine arts from Seoul National University. ​
+
+My research interests focus on the intersection of AI, educational technology, learning sciences, and HCI. I investigate fundamental questions on how people interact and collaborate with AI-powered tools and agents to empower teaching and learning. My current research focuses on leveraging state-of-the-art technologies for inclusive learning and teaching and how Generative AI (NLPs, Text-to-Image generators(TTL)) can be safely and effectively designed to scale playful, child-centered learning tailored to each student’s needs. I design, develop, and evaluate AI-powered learning technology to support creative expression and literacy development through writing with AI agents and examine how these AI technologies play the role of learning companions for children’s growth.
 
 A data-driven personal website
 ======

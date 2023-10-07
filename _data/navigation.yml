@@ -1,20 +1,20 @@
 # main links links
-main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=f5f8PKEAAAAJ&hl=en
-    
+main:    
   - title: "Research"
     url: /talks/    
         
   - title: "News"
     url: /year-archive/
+  
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=f5f8PKEAAAAJ&hl=en
     
   - title: "CV"
     url: /files/ariel-han-cv.pdf
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+    #url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+    #url: /portfolio/
     

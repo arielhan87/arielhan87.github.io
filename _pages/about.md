@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /posts
 ---
 
 I am a 5th year Ph.D. candidate in the University of California, Irvine informatics department, where I work at the [Creativity Labs](http://creativitylabs.com/) and [Connected Learning Lab](https://connectedlearning.uci.edu/), advised by [Dr. Kylie Peppler](http://kpeppler.com/). I received a master's in [Entertainment Technology Center](https://www.etc.cmu.edu/) from Carnegie Mellon University and Information science, Industrial design, and Fine arts from Seoul National University. ​

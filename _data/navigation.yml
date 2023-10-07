@@ -4,7 +4,7 @@ main:
     url: https://scholar.google.com/citations?user=f5f8PKEAAAAJ&hl=en
     
   - title: "Research"
-    url: /research/    
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "News"
-    url: /news/
+    url: /year-archive/
     
   - title: "CV"
     url: /files/ariel-han-cv.pdf

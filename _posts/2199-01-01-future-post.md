@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+StoryAI advanced in NSF-sponsored VITAL Prize Challenge Semi-Final Round

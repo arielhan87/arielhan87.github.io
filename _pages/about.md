@@ -14,3 +14,4 @@ My research interests focus on the intersection of AI, educational technology, l
 
 News
 ======
+permalink: /posts

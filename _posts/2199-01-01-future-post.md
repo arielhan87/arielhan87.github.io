@@ -1,6 +1,6 @@
 ---
 title: 'StoryAI advanced in NSF-sponsored VITAL Prize Challenge Semi-Final Round'
-date: 2023-08-01
+date: 2023-08-15
 permalink: /posts/2012/08/future-post/
 ---
 

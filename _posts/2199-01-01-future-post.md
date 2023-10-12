@@ -4,7 +4,7 @@ date: 2023-08-15
 permalink: /posts/2012/08/future-post/
 ---
 
-I am thrilled to announce that our project, StoryAI, advanced in the NSF-sponsored VITAL Prize Challenge Semi-Final Round. In addition to receiving \$ 20,000 for developing a prototype, our team has been matched with a teacher mentor who received \$ 15,000 to work with our team. Currently, we are co-designing the learning application as a team of four: Ariel Han (lead researcher), Shenshen Han (developer), Dr. Seth Corrigan, and Dr. Kylie Peppler and the teacher mentor, Gayle.
+I am thrilled to announce that our project, StoryAI, advanced in the NSF-sponsored VITAL Prize Challenge Semi-Final Round. In addition to receiving \$ 20,000 for developing a prototype, our team has been matched with a teacher mentor who received 15,000 to work with our team. Currently, we are co-designing the learning application as a team of four: Ariel Han (lead researcher), Shenshen Han (developer), Dr. Seth Corrigan, and Dr. Kylie Peppler and the teacher mentor, Gayle.
 
 StoryAI is an educational content creation platform for young learners that can also involve family members. It is designed to better engage English language learners, racial minorities and low-socioeconomic status (SES) households, and students with disabilities.
 Such engagement is critical as the U.S. deals with an ongoing literacy crisis that has only worsened after the pandemic. Average reading scores for 4th and 8th graders are declining, and 43 million American adults have low literacy skills.

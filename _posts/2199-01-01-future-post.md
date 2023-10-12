@@ -20,4 +20,4 @@ In November, Han will learn whether AIStory will be one of 18 teams selected to 
 Here is the link to our team description: [VITAL_STORYAI](https://www.vitalprize.org/en/custom/vitalprizeapplications2023/view/639)
 
 You can try out our app: [StoryAI_LINK](https://hanaldo.github.io/storyai/#/)
-Please provide feedback and reach out for collaboration: hanjy3@uci.edu
+Please provide feedback and reach out for collaboration: Lead researcher, Ariel Han: [hanjy3@uci.edu](hanjy@uci.edu)

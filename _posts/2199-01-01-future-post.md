@@ -17,8 +17,9 @@ Preliminary pilot studies with the platform suggest it reduces anxiety about the
 In November, Han will learn whether AIStory will be one of 18 teams selected to advance to the final round of the VITAL Prize Challenge. Finalists will receive an additional 50,000 USD in funding and the chance to compete for the first-place prize of 250,000 USD.
 
 ## StoryAI Prototype
-Here is the link to our team description: [VITAL_STORYAI](https://www.vitalprize.org/en/custom/vitalprizeapplications2023/view/639)
+Here is the link to our team description in the VITAL website: [VITAL_STORYAI](https://www.vitalprize.org/en/custom/vitalprizeapplications2023/view/639)
+You can try out our app: [StoryAI_LINK](https://hanaldo.github.io/storyai/#/)
 
 ## Collaboration
-You can try out our app: [StoryAI_LINK](https://hanaldo.github.io/storyai/#/)
+
 Please provide feedback and reach out for collaboration: Lead researcher, Ariel Han: [hanjy3@uci.edu](hanjy@uci.edu)

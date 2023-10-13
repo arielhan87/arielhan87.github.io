@@ -19,7 +19,7 @@ Preliminary pilot studies with the platform suggest it reduces anxiety about the
 
 “VITAL provided us with the opportunity to incorporate marginalized learners into the design considerations of the platform on which we implemented various universal design components,” says Han. Moving forward, the team plans to “examine learning outputs and outcomes from field studies with students.”
 In November, Han will learn whether AIStory will be one of 18 teams selected to advance to the final round of the VITAL Prize Challenge. Finalists will receive an additional 50,000 USD in funding and the chance to compete for the first-place prize of 250,000 USD.
-![StoryAI Prototype](/images/storyai.png){: .align-right width="300px"}
+![StoryAI Prototype](/images/storyai.png){: .align-center width="500px"}
 
 ## StoryAI Prototype
 Here is the link to our team description in the VITAL website: [VITAL_STORYAI](https://www.vitalprize.org/en/custom/vitalprizeapplications2023/view/639)

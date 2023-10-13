@@ -24,4 +24,5 @@ You can try out our app: [StoryAI_LINK](https://hanaldo.github.io/storyai/#/)
 
 ## Collaboration
 
-Please provide feedback and reach out for collaboration: Lead researcher, Ariel Han: [hanjy3@uci.edu](hanjy@uci.edu)
+Please provide feedback and reach out for collaboration.
+Ariel Han: [hanjy3@uci.edu](hanjy@uci.edu)

@@ -6,6 +6,8 @@ permalink: /posts/2012/08/future-post/
 
 I am thrilled to announce that our project, StoryAI, advanced in the NSF-sponsored VITAL Prize Challenge Semi-Final Round. In addition to receiving 20,000 USD for developing a prototype, our team has been matched with a teacher mentor who received 15,000 USD to work with our team. Currently, we are co-designing the learning application as a team of four: Ariel Han (lead researcher), Shenshen Han (developer), Dr. Seth Corrigan, and Dr. Kylie Peppler and the teacher mentor, Gayle.
 
+![StoryAI Concept](/images/story-ai-concept.png){: .align-right width="300px"}
+
 ## AI-based educational content creation platform to empower youth and families' learning journey
 
 StoryAI is an educational content creation platform for young learners that can also involve family members. It is designed to better engage English language learners, racial minorities and low-socioeconomic status (SES) households, and students with disabilities.

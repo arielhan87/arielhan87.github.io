@@ -1,1 +1,10 @@
+---
+title: 'CHI 2024 Teachers, Parents, and Students' perspectives on Integrating Generative AI into Elementary Literacy Education'
+date: 2024-02-21
+permalink: /posts/2024/08/blog-post-1/
 
+---
+
+Our CHI paper has been accepted and presented in CHI 2024!
+
+Han, A., Zhou, X., Cai, Z., Han, S., Ko, R., Corrigan, S., & Peppler, K. 2024. Teachers, Parents, and Students' Perspectives on Integrating Generative AI into Elementary Literacy Education. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI '24, May 11–16, 2024, Honolulu, HI, USA: Association for Computing Machinery. https://doi.org/10.1145/3613904.3642438

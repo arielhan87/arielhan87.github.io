@@ -1,7 +1,7 @@
 ---
 title: 'CHI 2024 Teachers, Parents, and Students' perspectives on Integrating Generative AI into Elementary Literacy Education'
 date: 2024-02-21
-permalink: /posts/2024/08/blog-post-1/
+layout: post
 
 ---
 

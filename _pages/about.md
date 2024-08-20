@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Ariel Han is a Postdoctoral Scholar of Technology, Innovation, and Learning at the University of Southern California (USC) at the Iovine and Young Academy (IYA).
+Ariel Han is a Postdoctoral Scholar of Technology, Innovation, and Learning at the University of Southern California [USC](https://www.usc.edu/) at the Iovine and Young Academy [IYA](https://iovine-young.usc.edu/).
 
 Ariel received her PhD from the University of California, Irvine informatics department, where she worked at the [Creativity Labs](http://creativitylabs.com/) and [Connected Learning Lab](https://connectedlearning.uci.edu/). Ariel received a master's in [Entertainment Technology Center](https://www.etc.cmu.edu/) from Carnegie Mellon University and bachelor's degrees in Information science, Industrial design, and Fine arts from Seoul National University. ​
 

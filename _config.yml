@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ariel Han"
   avatar           : "ariel-han.jpg"
-  bio              : "PhD Candidate at UC Irvine, Informatics department"
-  location         : "Irvine, CA"
+  bio              : "Postdoctoral Scholar of Technology, Innovation, and Learning at the University of Southern California USC"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=f5f8PKEAAAAJ&hl=en"
-  email            : "hanjy3@uci.edu"
+  email            : "arielhan@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
